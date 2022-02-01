@@ -1,0 +1,16 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "mobile": "node buildConfig.js && vitepress dev . --open --port 3001",
+    "build": "node buildConfig.js && vitepress build .",
+    "serve": "vitepress serve ."
+  },
+  "devDependencies": {
+    "stylus": "^0.55.0",
+    "stylus-loader": "^6.1.0",
+    "vitepress": "^0.19.1"
+  }
+}
