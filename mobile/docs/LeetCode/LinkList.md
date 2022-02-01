@@ -27,7 +27,7 @@
 
 ### `[Js]`题解：
 
-[![反转链表-循环♻️-图解](https://s4.ax1x.com/2022/01/10/7ECBND.png)](https://imgtu.com/i/7ECBND)
+[![反转链表-循环♻️-图解](https://s4.ax1x.com/2022/02/01/HFsyWQ.png)](https://imgtu.com/i/HFsyWQ)
 
 ```js
 循环♻️置换
